@@ -1,0 +1,154 @@
+[
+  {
+    "model": "Toyota Corolla",
+    "year": 2020,
+    "cost": 25000,
+    "prob": 150000,
+    "color": "Red",
+    "dtp": 2
+  },
+  {
+    "model": "Honda Civic",
+    "year": 2021,
+    "cost": 22000,
+    "prob": 180000,
+    "color": "Blue",
+    "dtp": 1
+  },
+  {
+    "model": "Ford Fusion",
+    "year": 2020,
+    "cost": 28000,
+    "prob": 200000,
+    "color": "White",
+    "dtp": 3
+  },
+  {
+    "model": "Chevrolet Malibu",
+    "year": 2021,
+    "cost": 24000,
+    "prob": 170000,
+    "color": "Silver",
+    "dtp": 2
+  },
+  {
+    "model": "Nissan Sentra",
+    "year": 2020,
+    "cost": 30000,
+    "prob": 220000,
+    "color": "Black",
+    "dtp": 4
+  },
+  {
+    "model": "BMW X5",
+    "year": 2021,
+    "cost": 45000,
+    "prob": 250000,
+    "color": "Grey",
+    "dtp": 5
+  },
+  {
+    "model": "Mercedes-Benz E-Class",
+    "year": 2020,
+    "cost": 50000,
+    "prob": 280000,
+    "color": "Brown",
+    "dtp": 3
+  },
+  {
+    "model": "Audi A8",
+    "year": 2021,
+    "cost": 60000,
+    "prob": 320000,
+    "color": "Black",
+    "dtp": 4
+  },
+  {
+    "model": "Volkswagen Passat",
+    "year": 2020,
+    "cost": 35000,
+    "prob": 200000,
+    "color": "White",
+    "dtp": 2
+  },
+  {
+    "model": "Hyundai Elantra",
+    "year": 2021,
+    "cost": 28000,
+    "prob": 190000,
+    "color": "Silver",
+    "dtp": 1
+  },
+  {
+    "model": "Kia Seltos",
+    "year": 2020,
+    "cost": 26000,
+    "prob": 160000,
+    "color": "Red",
+    "dtp": 2
+  },
+  {
+    "model": "Mazda CX-5",
+    "year": 2021,
+    "cost": 40000,
+    "prob": 230000,
+    "color": "Blue",
+    "dtp": 3
+  },
+  {
+    "model": "Subaru Outback",
+    "year": 2020,
+    "cost": 32000,
+    "prob": 210000,
+    "color": "Green",
+    "dtp": 2
+  },
+  {
+    "model": "Toyota RAV4",
+    "year": 2021,
+    "cost": 42000,
+    "prob": 240000,
+    "color": "Black",
+    "dtp": 3
+  },
+  {
+    "model": "Honda Accord",
+    "year": 2020,
+    "cost": 38000,
+    "prob": 200000,
+    "color": "Silver",
+    "dtp": 2
+  },
+  {
+    "model": "Ford Explorer",
+    "year": 2021,
+    "cost": 55000,
+    "prob": 300000,
+    "color": "Grey",
+    "dtp": 4
+  },
+  {
+    "model": "Chevrolet Impala",
+    "year": 2020,
+    "cost": 30000,
+    "prob": 180000,
+    "color": "Red",
+    "dtp": 2
+  },
+  {
+    "model": "Nissan Maxima",
+    "year": 2021,
+    "cost": 35000,
+    "prob": 210000,
+    "color": "White",
+    "dtp": 3
+  },
+  {
+    "model": "BMW 3 Series",
+    "year": 2020,
+    "cost": 32000,
+    "prob": 190000,
+    "color": "Blue",
+    "dtp": 2
+  }
+]
